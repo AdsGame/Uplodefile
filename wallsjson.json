@@ -3,8 +3,8 @@
        
 	   "show_ads": true,
       
-	  "bannerAd": "facebook",
-        "InterAd": "facebook",
+	  "bannerAd": "unity",
+        "InterAd": "unity",
         "NativeAd": "admob",
         
 		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -22,9 +22,9 @@
 		"ironsource_api": "xxxxxxxxx",
 		
 		"unityTest": true,
-        "unityGameID": "xxxxxxxxx",
-        "unityBanner": "xxxxxxxxx",
-        "unityInter": "xxxxxxxxx",
+        "unityGameID": "4466919",
+        "unityBanner": "Banner_Android",
+        "unityInter": "Interstitial_Android",
 		
         "intersitial_click_activites": 2,
 		"intersitial_click_list": 3,

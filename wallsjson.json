@@ -23,8 +23,8 @@
 		
 	"unityTest": true,
         "unityGameID": "4466919",
-        "unityBanner": "banner",
-        "unityInter": "video",
+        "unityBanner": "Banner_Android",
+        "unityInter": "Interstitial_Android",
 		
         "intersitial_click_activites": 2,
 	"intersitial_click_list": 3,

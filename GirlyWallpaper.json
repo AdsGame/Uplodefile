@@ -1,7 +1,7 @@
 {
   "Cofig": {
     "PrivacyPolicy": "https://adsgame.github.io/AdsGame/Privacy_Policy.html",
-    "MoreApp": "https://play.google.com",
+    "MoreApp": "https://galaxystore.samsung.com/detail/com.cutewallpapers.girlyWallpaper",
     "ad_status": "1",
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
     "ad_type": "admob",

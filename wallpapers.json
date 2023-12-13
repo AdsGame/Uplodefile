@@ -69,11 +69,18 @@
         "categories": "",
         "premium": false
      },
-    {
+     {
         "name": "Nature",
         "url": "https://mfiles.alphacoders.com/100/1009660.jpeg",
         "previewUrl": "https://mfiles.alphacoders.com/100/1009660.jpeg",
         "categories": "",
         "premium": false
+     },
+     {
+        "name": "Nature",
+        "url": "https://mfiles.alphacoders.com/101/1010709.png",
+        "previewUrl": "https://mfiles.alphacoders.com/101/1010709.png",
+        "categories": "",
+        "premium": true
     }
 ]
